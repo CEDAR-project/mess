@@ -1,6 +1,12 @@
 # Emacs temps
 *~
 
+# json dumps
+*.json
+
+# sample data dir
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
